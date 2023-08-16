@@ -12,6 +12,8 @@ Minha aptidão para transformar dados brutos em informações acionáveis, combi
 
 Também sou criadora de conteúdo sobre o Universo da Análise de Dados, na **Newsletter Miaudados**, no Linkedin.
 
+![Banner para Linkedin Cabeçalho com Formas Coloridas em Azul (3)](https://github.com/NayaraWakewski/NayaraWakewski/assets/79403619/d3ac0e3d-3e35-4671-9e01-be25589f600e)
+
 ## 👩🏽‍💻 Experiências Profissionais
 
 -  **BackEnd:**  Python (Pandas, Numpy, Matplotlib).
