@@ -19,7 +19,7 @@ Também sou criadora de conteúdo sobre o Universo da Análise de Dados, na **Ne
 -  **BackEnd:**  Python (Pandas, Numpy, Matplotlib).
 -  **DevOps:**  Amazon Web Services (AWS), Google Cloud (Em processo de Aprendizagem).
 -  **Machine Learning:**  Tensorflow, Keras, Scikit-Learn
--  **Database:** Relational Database (SQL, PostgreSQL) / Non-Relational Database (MongoDB).
+-  **Database:** Relational Database (SQL Server, PostgreSQL) / Non-Relational Database (MongoDB).
 -  **ETL:** Pentaho.
 -  **Data Viz** PowerBi.
 
