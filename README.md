@@ -20,8 +20,8 @@ Também sou criadora de conteúdo sobre o Universo da Análise de Dados, na **Ne
 -  **DevOps:**  Amazon Web Services (AWS), Google Cloud (Em processo de Aprendizagem).
 -  **Machine Learning:**  Tensorflow, Keras, Scikit-Learn
 -  **Database:** Relational Database (SQL Server, PostgreSQL) / Non-Relational Database (MongoDB).
--  **ETL:** Pentaho.
--  **Data Viz** PowerBi.
+-  **ETL:** Pentaho, Metabase.
+-  **Data Viz** PowerBi, Looker Studio.
 
 <p>Combinando minha paixão por dados, conhecimentos intermediários em programação e habilidades em Machine Learning, estou pronta para enfrentar desafios analíticos complexos e fornecer soluções impactantes. Estou entusiasmada em contribuir para o sucesso por meio do poder dos dados e da inteligência artificial.</p>
 
