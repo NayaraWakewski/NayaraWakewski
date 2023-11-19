@@ -10,9 +10,7 @@ Com um embasamento técnico e habilidades intermediárias em ferramentas de aná
 
 Minha aptidão para transformar dados brutos em informações acionáveis, combinada meu conhecimento em Python e Machine Learning, capacita a tomada de decisões informadas e estratégicas
 
-Também sou criadora de conteúdo sobre o Universo da Análise de Dados, na **Newsletter Miaudados**, no Linkedin.
-
-![Banner para Linkedin Cabeçalho com Formas Coloridas em Azul (3)](https://github.com/NayaraWakewski/NayaraWakewski/assets/79403619/d3ac0e3d-3e35-4671-9e01-be25589f600e)
+Também sou criadora de conteúdo sobre o Universo da Análise de Dados, no Linkedin.
 
 ## 👩🏽‍💻 Experiências Profissionais
 
