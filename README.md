@@ -12,11 +12,11 @@ Minha aptidão para transformar dados brutos em informações acionáveis, combi
 
 Também sou criadora de conteúdo sobre o Universo da Análise de Dados, no Linkedin.
 
-## 👩🏽‍💻 Experiências Profissionais
+## 👩🏽‍💻 Experiências
 
 -  **BackEnd:**  Python (Pandas, Numpy, Matplotlib).
 -  **DevOps:**  Amazon Web Services (AWS), Google Cloud (Em processo de Aprendizagem).
--  **Machine Learning:**  Tensorflow, Keras, Scikit-Learn
+-  **Machine Learning:**  Tensorflow, Keras, Scikit-Learn, Naive Bais, KNM, Tree Decision, Regressão, Estatística.
 -  **Database:** Relational Database (SQL Server, PostgreSQL) / Non-Relational Database (MongoDB).
 -  **ETL:** Pentaho, Metabase.
 -  **Data Viz** PowerBi, Looker Studio.
