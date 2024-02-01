@@ -5,7 +5,7 @@
 
 <img align="right" src="https://img.freepik.com/vetores-premium/conceito-plano-de-vetor-de-carreira-de-analista-de-dados-ilustracao-local_151150-13220.jpg?w=1380" width='200'/> 
 
-Olá, me chamo **Nayara Valevskii**, sou uma Analista de Dados com experiência nas linguagens SQL e Python.
+Olá, me chamo **Nayara Valevskii**, sou uma Analista de Dados/Science com experiência nas linguagens SQL, Python e Dataviz.
 Com um embasamento técnico e habilidades intermediárias em ferramentas de análise de dados, meu compromisso reside em extrair percepções valiosas de conjuntos de dados complexos. 
 
 Minha aptidão para transformar dados brutos em informações acionáveis, combinada meu conhecimento em Python e Machine Learning, capacita a tomada de decisões informadas e estratégicas
@@ -23,9 +23,16 @@ Também sou criadora de conteúdo sobre o Universo da Análise de Dados, no Link
 
 <p>Combinando minha paixão por dados, conhecimentos intermediários em programação e habilidades em Machine Learning, estou pronta para enfrentar desafios analíticos complexos e fornecer soluções impactantes. Estou entusiasmada em contribuir para o sucesso por meio do poder dos dados e da inteligência artificial.</p>
 
+## 📚 Certificações
+
+-  **Certificado Profissional de Análise de Dados do Google** - https://www.credly.com/badges/4bb19188-dfd3-4e36-b21d-3cfaa869e46a/linked_in_profile
+-  **Cloudera Technical Professional (CTP) Accreditation**
+
+
 ## ⭐️ Comunidade
 
 - Voluntária da Reprograma, projeto voltado para inserção de mulheres na programação.
+- Voluntária PyLadies Fortaleza/CE.
 
 
 
