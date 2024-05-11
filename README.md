@@ -5,7 +5,7 @@
 
 <img align="right" src="https://img.freepik.com/vetores-premium/conceito-plano-de-vetor-de-carreira-de-analista-de-dados-ilustracao-local_151150-13220.jpg?w=1380" width='200'/> 
 
-Olá, me chamo **Nayara Valevskii**, sou uma Analista de Dados/Science com experiência nas linguagens SQL e Python.
+Olá, me chamo **Nayara Valevskii**, sou uma Dada Analytics atuando nas áreas de Engenharia e Ciência de Dados, com experiência nas linguagens SQL e Python.
 Com um embasamento técnico e habilidades intermediárias em ferramentas de análise de dados, meu compromisso reside em extrair percepções valiosas de conjuntos de dados complexos. 
 
 Minha aptidão para transformar dados brutos em informações acionáveis, combinada meu conhecimento em Python e Machine Learning, capacita a tomada de decisões informadas e estratégicas
@@ -14,12 +14,13 @@ Também sou criadora de conteúdo sobre o Universo da Análise de Dados, no Link
 
 ## 👩🏽‍💻 Experiências
 
--  **BackEnd:**  Python (Pandas, Numpy, Matplotlib).
--  **DevOps:**  Amazon Web Services (AWS), Google Cloud (GCP) - (Em processo de Aprendizagem).
+-  **BackEnd:**  Python (Pandas, Numpy, Matplotlib, FastApy, Pytest).
+-  **DevOps:**  Amazon Web Services (AWS), Google Cloud (GCP).
 -  **Machine Learning:**  Tensorflow, Keras, Scikit-Learn, Naive Bais, KNM, Tree Decision, Regressão, Estatística.
 -  **Database:** Relational Database (SQL Server, PostgreSQL) / Non-Relational Database (MongoDB).
 -  **ETL:** Pentaho, Metabase.
 -  **Data Viz** PowerBi, Looker Studio.
+-  **Engenharaia de Dados** Docker, Airflow, PySpark.
 
 <p>Combinando minha paixão por dados, conhecimentos intermediários em programação e habilidades em Machine Learning, estou pronta para enfrentar desafios analíticos complexos e fornecer soluções impactantes. Estou entusiasmada em contribuir para o sucesso por meio do poder dos dados e da inteligência artificial.</p>
 
@@ -32,9 +33,8 @@ Também sou criadora de conteúdo sobre o Universo da Análise de Dados, no Link
 
 ## ⭐️ Comunidade
 
-- Voluntária da Reprograma, projeto voltado para inserção de mulheres na programação.
 - Voluntária PyLadies Fortaleza/CE.
-
+- Voluntária GDG e WTM Fortaleza (Comunidades Google).
 
 
 ## 🚀 Status
