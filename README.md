@@ -10,31 +10,70 @@ Com um embasamento técnico e habilidades intermediárias em ferramentas de aná
 
 Minha aptidão para transformar dados brutos em informações acionáveis, combinada meu conhecimento em Python e Machine Learning, capacita a tomada de decisões informadas e estratégicas
 
-Também sou criadora de conteúdo sobre o Universo da Análise de Dados, no Linkedin.
+Também sou criadora de conteúdo sobre o Universo da área de Dados, no Linkedin.
 
 ## 👩🏽‍💻 Experiências
 
--  **BackEnd:**  Python (Pandas, Numpy, Matplotlib, FastApy, Pytest).
--  **DevOps:**  Amazon Web Services (AWS), Google Cloud (GCP).
--  **Machine Learning:**  Tensorflow, Keras, Scikit-Learn, Naive Bais, KNM, Tree Decision, Regressão, Estatística.
--  **Database:** Relational Database (SQL Server, PostgreSQL) / Non-Relational Database (MongoDB).
--  **ETL:** Pentaho, Metabase.
--  **Data Viz** PowerBi, Looker Studio.
--  **Engenharaia de Dados** Docker, Airflow, PySpark.
+### BackEnd:
+- **Python:** Pandas, Numpy, Matplotlib, FastAPI, Pytest.
+
+### DevOps:
+- **Amazon Web Services (AWS) - nivel de estudo**
+- **Google Cloud (GCP) - nível de estudo**
+- **Cloudera**
+
+### Machine Learning:
+- **Tensorflow**
+- **Keras**
+- **Scikit-Learn**
+- **H2O.ai**
+- **Modelos:** Naive Bayes, KNN, Árvores de Decisão, Regressão, Essemble.
+- **Estatística**
+
+### Database:
+- **Relational Database:** SQL Server, PostgreSQL
+- **Non-Relational Database:** MongoDB
+- **Denodo**
+
+### ETL:
+- **Pentaho**
+- **Metabase**
+
+### Data Viz:
+- **PowerBI**
+- **Looker Studio**
+
+### Engenharia de Dados:
+- **Docker**
+- **Airflow**
+- **PySpark**
+
+### Controle de Versão:
+- **Git**
+- **Github**
+- **Bitbucket**
 
 <p>Combinando minha paixão por dados, conhecimentos intermediários em programação e habilidades em Machine Learning, estou pronta para enfrentar desafios analíticos complexos e fornecer soluções impactantes. Estou entusiasmada em contribuir para o sucesso por meio do poder dos dados e da inteligência artificial.</p>
 
 ## 📚 Certificações
 
--  **Certificado Profissional de Análise de Dados do Google** - https://www.credly.com/badges/4bb19188-dfd3-4e36-b21d-3cfaa869e46a/linked_in_profile
--  **Cloudera Technical Professional (CTP) Accreditation**
--  **Certificação Plataforma H2O - AutoML**
+-  **Certificado Data Analytics - Google.**
+- **Certificado Arquiteto de Virtualização de Dados – Denodo.**
+- **Certificado de Cloudera Technical Expert Accreditation.**
+- **Certificado de Cloudera Technical Specialist Accreditation.**
+- **Certificado de Cloudera Technical Professional.**
+- **Certificado H2O AutoML Platform Training Certificate.** 
 
+## 📚 Faculdade
+
+-  **Bacharelado em Ciência de Dados e Inteligência Artificial - UniDomBosco** - em andamento.
 
 ## ⭐️ Comunidade
 
 - Voluntária PyLadies Fortaleza/CE.
 - Voluntária GDG e WTM Fortaleza (Comunidades Google).
+  
+Principais atividades nas comunidades, é organização dos eventos, mentoria e palestras.
 
 
 ## 🚀 Status
