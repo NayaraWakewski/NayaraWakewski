@@ -75,6 +75,12 @@ Também sou criadora de conteúdo sobre o Universo da área de Dados, no Linkedi
   
 Principais atividades nas comunidades, é organização dos eventos, mentoria e palestras.
 
+## ⭐️ Experiências Profissionais
+
+- **Diamond Solutions** - atuando principalmente como Arquiteta de Soluções densenvolvendo projetos de Engenharia e Ciência de Dados (atualmente).
+- **Digital College** - professora de formação do curso de Data Analytics, lecionando as disciplinas de banco de dados, Etl, Python e PowerBi (atualmente).
+- **Konstroi** - atuei como Head People, com foco em consultoria para clientes externos e para os clientes internos, responsável por toda a parte de gestão de pessoas (atuei por 10 anos).
+ 
 
 ## 🚀 Status
 
